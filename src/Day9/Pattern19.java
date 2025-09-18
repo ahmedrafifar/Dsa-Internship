@@ -7,7 +7,7 @@ public class Pattern19 {
 
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter number of rows: ");
+        System.out.println("Enter number : ");
         int n = sc.nextInt();
         int st = n/2;
 
