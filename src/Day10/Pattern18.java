@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Pattern18 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        System.out.println("enter  rows: ");
+        System.out.println("enter no of rows: ");
         int n= sc.nextInt();
         int sp=0;
         int st=n;
